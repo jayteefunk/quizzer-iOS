@@ -48,8 +48,6 @@ class ViewController: UIViewController {
     
     func updateUI() {
         
-        
-        
     }
     
     
@@ -78,7 +76,6 @@ class ViewController: UIViewController {
     
     
     func startOver() {
-        
         
 //        var answer : Int = 0
 //        let alert = UIAlertController(title: "End of Quiz", message: "Do you want to start over?", preferredStyle: UIAlertControllerStyle.alert)
